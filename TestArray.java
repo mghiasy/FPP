@@ -2,6 +2,7 @@ package FPPProject;
 
 public class TestArray {
 
+	//DEFINE ISLAND AND INDEX ARRAY AND REPRESENT THE CONTENT
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] islands = new String [4];
